@@ -1,1 +1,1 @@
-# tdd-react-redux
+# TDD with React & Redux
